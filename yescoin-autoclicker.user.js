@@ -2,15 +2,15 @@
 // @name         YesCoin Autoclicker
 // @namespace    Violentmonkey Scripts
 // @version      1.0
-// @description  Автоматический сборщик монет для YesCoin
+// @description  YesCoin Auto Clicker
 // @match        *://*.yescoin.gold/*
-// @author       mudachyo
+// @author       amir-homous
 // @icon         https://www.yescoin.gold/android-chrome-512x512.png
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://github.com/mudachyo/Yescoin/raw/main/yescoin-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Yescoin/raw/main/yescoin-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Yescoin
+// @downloadURL  https://github.com/amir-homous/Yescoin/raw/main/yescoin-autoclicker.user.js
+// @updateURL    https://github.com/amir-homous/Yescoin/raw/main/yescoin-autoclicker.user.js
+// @homepage     https://github.com/amir-homous/Yescoin
 // ==/UserScript==
 
 const styles = {
